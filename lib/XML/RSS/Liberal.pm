@@ -3,7 +3,7 @@ use strict;
 use base qw(XML::RSS::LibXML);
 use vars qw($VERSION);
 use XML::Liberal;
-$VERSION = '0.03';
+$VERSION = '0.04';
 
 sub create_libxml
 {
